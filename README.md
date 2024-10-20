@@ -208,8 +208,6 @@
 ***
 # 🥬 관련 문서
 ***
-
-🥬 [금쪽유치원 Team Notion](https://mica-crate-425.notion.site/3be8545d8d814326a04399bc88532910?pvs=4)
 <br>🥬 [프로젝트 소개 PPT](https://www.miricanvas.com/v/131l7b6)
 
 ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=gradient&text=금쪽유치원%20사과반&fontAlign=19&textBg=false&fontSize=30&reversal=false&fontAlignY=50&animation=twinkling&fontColor=FFFFFF&section=footer&desc=박영규%20김희주%20안성재%20윤정인%20안상준%20양희태%20&descAlignY=85)
